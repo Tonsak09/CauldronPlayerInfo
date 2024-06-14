@@ -1,4 +1,4 @@
-This is an adventure that has the players explore a new continent discovered past a dangerous stretch of territory called Cauldron. They may be going out in order to feel the thrill of adventure, experience foreign magic, help hunt down the lost cartographer Paol Gielby, or something completely else! 
+This is an adventure that has the players explore a new continent discovered past a dangerous stretch of territory called Cauldron. They may be going out in order to feel the thrill of adventure, experience foreign magic, help hunt down the lost cartographer and historian Paol Gielby, or something completely else! 
 
 Though the plot is tethered around searching for Paol, players do not need this to be their character's primary goal.
 

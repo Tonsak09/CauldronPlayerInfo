@@ -1,15 +1,15 @@
 ## Potions
 
-Healing potions are made from two components, a medicinal herb or oil, and a healthy blood. The first part of the potion, herb/oil, helps decide the kind of die roll with the type of blood being a multiplier to the equation.
+Healing potions are made from two components, a medicinal herb or oil, and healthy blood. The first part of the potion, herb/oil, helps decide the kind of die roll with the type of blood being a multiplier to the equation.
 
-Blood, or b in the following equations, is equal to the constitution modifier of creature the blood is taken from. All potions also require a bottle in order to create and be held in. 
+Blood, or b in the following equations, is equal to the constitution modifier of  the creature the blood is taken from. All potions also require a bottle or vial in order to create and be held in. The table also shows the difficulty it would take to forage for the herb/oil. 
 
-| Medicinal Herb/Oil | Nature/Survival Search Check | Equation        |
-| ------------------ | ---------------------------- | --------------- |
-| Minor              | >= 10                        | (1 + b) d4 + b  |
-| Greater            | >= 15                        | (1 + b) d6 + b  |
-| Superior           | >= 25                        | (1 + b) d8 + b  |
-| Uber               | >= 30                        | (1 + b) d10 + b |
+| Medicinal Herb/Oil | Nature Search Check | Equation        |
+| ------------------ | ------------------- | --------------- |
+| Minor              | >= 10               | (1 + b) d4 + b  |
+| Greater            | >= 15               | (1 + b) d6 + b  |
+| Superior           | >= 25               | (1 + b) d8 + b  |
+| Uber               | >= 30               | (1 + b) d10 + b |
 
 Materials can also be used to make specific potions if desired too. Though players may still use the following material combinations to make a healing potion instead. In the following requirements tab the first letter refers to the level of herb/oil needed and the rest are materials specific to the potion. 
 
@@ -43,16 +43,16 @@ Materials can also be used to make specific potions if desired too. Though playe
 | Potion of Mind Control            | S + Blood of Creature type + Gland of Psychic Creature    | When you drink a _Potion of Mind Control_, you can cast a _Dominate_ spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Potion of Mind Reading            | S + Blood Perceptive Creature + Gland of Psychic Creature | When you drink this potion, you gain the effect of the [Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) spell (save DC 13)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-## Firearms 
+## Reeds 
 
-These work very similar the effects of bows with some minor differences. One of the key things needed to be considered is that your rifle is technically alive and so potions have an effect on them. 
+These work very similar the effects of bows with some minor differences. One of the key things needed to be considered is that your rifle is technically alive and so potions tailored to these "reeds" have various different affects. Reeds with potion affects added to them are referred to as *soaked*. Some weapons can be soaked with multiple potions at once and to find out how much your reed can be soaked refer to its property tab. 
 
-The following table should be a quick reference to what information you would need about each specific firearm. The damage type assume that you are using standard bullets, which you may consider that you have unlimited of, but if you are using special bullets make sure to consider the bullets table after. 
+The following table should be a quick reference to what information you would need about each specific firearm. The damage type assume that you are using standard bullets, which you may consider that you have unlimited of.
 
-| Name | Damage | Damage Type | Range | Properties |
-| ---- | ------ | ----------- | ----- | ---------- |
-|      |        |             |       |            |
-|      |        |             |       |            |
-|      |        |             |       |            |
-|      |        |             |       |            |
-|      |        |             |       |            |
+| Name   | Damage        | Range   | Properties                                        | Description                                                                                                                                                                                                                                                                                     |
+| ------ | ------------- | ------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Punk   | 1d8 piercing  | 80/320  | Ammunition, loading, two handed, soaked(1)        | Though awkwardly long they are very light and resemble cattail and are flexible enough to be folded and held in a small compartment                                                                                                                                                             |
+| Popper | 1d6 piercing  | 80/320  | Ammunition, two handed, soaked (3)                | Able to fire either bullets or arrows poppers are bred to a weapon for any environment. Their barrels have large ridges making it resemble bamboo. The weapon can be eaten in a pinch too acting as a minor health potion with a b value of 1                                                   |
+| Lofter | 1d10 piercing | 100/400 | Ammunition, loading, two handed, heavy, soaked(1) | Can easily be mistaken for wood, this heavy rifle is the most common used weapon of the Frontier knights for its heavy penetrating power against anything wicked.                                                                                                                               |
+| Flice  | 1d8 piercing  | 150/600 | Ammunition, two handed, heavy, soaked(5)          | This quick loading marksman rifle is a prized possession used by Ornish Sharpshooters. Multiple vials are built into the rifle sticking out of the barrel allowing users to store their potions and inject it with a twitch of a finger instead of manual injection. Built for speed and range. |
+
