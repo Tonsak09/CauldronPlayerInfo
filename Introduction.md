@@ -61,7 +61,7 @@ Miocho is know for their work on glyphs to improve armour, weapons, but especial
 *A heated response from Sultan Brenciar Nyelmaathinis to Paol Gielby*
 > It is about precision and command. Capturing the future requires more than gazing upon the sky and drinking sweet teas. To understand the nuances of the world you must become apart of it, embrace the elements of the land and allow them to become apart of you as much as you are of it. 
 
-The heated sands a jagged rocks of Leenduk may seem unhospitable to most races but to those that live there consider it paradise. The society follows a strict hierarchy with powering leading to the various sultans of the land. Though not directly bording Cauldron they are economic partners and neighbors of both Miocho and Orn meaning that services of Leenduk has found its way to the front. 
+The heated waters and jagged rocks of Leenduk may seem unhospitable to most races but to those that live there consider it paradise. The society follows a strict hierarchy with powering leading to the various sultans of the land. Though not directly bording Cauldron they are economic partners and neighbors of both Miocho and Orn meaning that services of Leenduk has found its way to the front. 
 
 | Primary Population(s)                           | Currency                                                 | Religion                           | Language                                       |
 | ----------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | ---------------------------------------------- |
