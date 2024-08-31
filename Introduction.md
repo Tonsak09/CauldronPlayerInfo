@@ -17,7 +17,7 @@ The rest of this document goes over some nations or factions that you may want y
 ## Frontier Knights
 
 *Excerpt from Conflicts on the Border of Cauldron by Knight Rayer*
-> A flickering flame exists in all of us that can make the fantastical to become tangible. Some are rewarded burning hearths for their loyalty to beings beyond or some others are lucky enough to be born inheriting from passtorch lineages, but most of us come with mere smoldering embers. Enough perhaps to light a candle on a dark night but not enough to hold against the wicked things that come from Cauldron. 
+> A flickering flame exists in all of us that can make the fantastical to become tangible. Some are rewarded burning hearths for their loyalty to beings beyond while others are lucky enough to be born of passtorch lineages. Most of us come with mere smoldering embers. Enough perhaps to light a candle on a dark night but not enough to hold against the wicked things that come from Cauldron. 
 > 
 > The Frontier Knights are made from the brave men and women that stand against wicked and vile creatures not relying on spellcraft or enchantment but of guns and steel. We are the bulwark and the people of the cities and we are steadfast against all foes.
 
@@ -29,7 +29,7 @@ This group is made up of the populations of many different nations who have gone
 ## Orn
 
 *Excerpt from Empire of Blood by Paol Gielby*
-> Ornish wisdom has gifted, or more accurately sold, us with the modern firearms we so often use today. Specially tailored and grown reeds are to be used as the primary mechanism and only once they have reached maturity are they implemented with the lever action injector. Yes, rifles are alive as to fire it is necessary to pump a special concoction into them in to cause a chemical reaction leading to the ejection of whatever material is in its barrel. 
+> Ornish wisdom has gifted, or more accurately sold, us with the modern firearms we so often use today. Specially tailored and grown reeds are to be used as the primary mechanism. Only once they have reached maturity are they implemented with the lever action injector. Yes, rifles are alive as to fire it is necessary to pump a special concoction into them in to cause a chemical reaction leading to the ejection of whatever material is in its barrel. 
 
 This nation is currently largest land mass that borders against Cauldron and so is in constant conflict with the Wicked and are the largest funders of the Frontier Knights despite their uneasy relationship. 
 
@@ -40,7 +40,7 @@ This nation is currently largest land mass that borders against Cauldron and so 
 *Excerpt from Empire of Blood by Paol Gielby*
 > Ornish blood merchants have not always been the shunned group that they are today. Due to how integral blood is for the creation of potions and how difficult it can be to get exotic materials in areas where trade lines are weak or nonexistent these merchants have played an integral role in keeping less fortunate populations healthy. (...)
 
-Orn is known for their development of rifles and blood trade. Through experimentation and sheer economic will Ornish wisdom has found itself on the frontier of alchemy. If you choose to be related or come from this nation you will have some more insights and relations to potion craft and firearm development. 
+Orn is known for their development of rifles and blood trade. Through experimentation and sheer economic will, the Ornish wisdom has found itself on the frontier of alchemy. If you choose to be related or come from this nation you will have some more insights and relations to potion craft and firearm development. 
 ## Miocho  
 
 *Interview with Echo Priest Twindoch*
