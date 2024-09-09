@@ -1,5 +1,5 @@
  "What's the deal with the sharpshooter?"
-> Orn is known for the creation of firearms and are always looking for the next technological leap. The stone that the party is transporting comes from past Cauldron making it very valuable. Its odd kinetic reactions when taking damage could be exploited in interesting ways if captured by the Ornish Wisdom. It may just be enough for them to siege war on the neighboring nations... 
+> Orn is known for the creation of firearms and are always looking for the next technological leap. The stone that the party is transporting comes from past Cauldron making it very valuable. Its odd kinetic reactions when taking damage could be exploited if siezed by the Ornish Wisdom. It may just be enough for them to siege war on the neighboring nations... 
 
 - Introduced **Clareskir** as employer for job to retrive **Shi-Eh-Gi**, a wicked chimera, from **Echoes-Vine**
 - The key to getting into the fortress was to be using a large stone that came originally from past Cauldron
