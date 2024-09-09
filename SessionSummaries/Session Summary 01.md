@@ -31,3 +31,11 @@
 - Seven would get soup poured onto them and shoot the cook in the eye
 - Would speak briefly with Shi-Eh-Gi before freeing them 
 - Seven would try to lasso Shi-Eh-Gi and would be successful. They are not being dragged away in the air 
+
+![[Echos-Vine Whiteboard.jpg]]
+
+![[Furry.jpg]]
+
+![[Shallow.jpg]]
+
+![[BigCreature.jpg]]
