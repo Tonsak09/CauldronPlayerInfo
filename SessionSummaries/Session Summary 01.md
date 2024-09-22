@@ -8,7 +8,7 @@
 - Distracted Karra by not pissing behind the stables and took two horses, **Bleeder** and **Shallow**
 - Brought horses back to cart and began journey to Echoes-Vine
 - Eventually came by combustible crabs which were dealt with and collected 
-- Party is investigated at night by and ornish sharpshooter
+- Party is investigated at night by an ornish sharpshooter
 - Tarantula named **Scuddle**
 - Came upon a swamp-drake named **Hov-Ir**
 - Party fed him some crab but he wanted something more fancy 
@@ -20,7 +20,7 @@
 - Scratch and Lisbornus went out to see. They spoke with a jackalwere who called them nasty 
 - Gnats everywhere. Shallow's eyes went black because of how many gnats were on them. Seven made goggles out of vials for Shallow 
 - Arrived at Echos-Vine. A collection of stone manors that lead up to keep at the top of a hill. 
-- Saw a **Vile** collecting information within the manors far from **Hell**. Stope four pages worth of information but is in infernal. Need to find a translator 
+- Saw a **Vile** collecting information within the manors far from **Hell**. Stole four pages worth of information but is in infernal. Need to find a translator 
 - Collected information about the **Crusted Crown** which originates from Cauldron
 - Saw some form of grey goo being licked by giant rats. Scratch got out of there before things got crazy 
 - Eventually went to the lesser gate and delivered the stone before leaving the keep (??????)
@@ -28,7 +28,7 @@
 - Scratch tried to impersonate their way in. It did not work 
 - Lisbornus learned more about the Crusted Crown and saw the vile from earlier 
 - Ipp would slip into the keep and be harassed by a captain. The captain would trauma dump and another intervening knight stepped between 
-- Seven would get soup poured onto them and shoot the cook in the eye
+- Seven would get soup poured onto them and shoot the cook in the eye killing them instantly
 - Would speak briefly with Shi-Eh-Gi before freeing them 
 - Seven would try to lasso Shi-Eh-Gi and would be successful. They are not being dragged away in the air 
 
