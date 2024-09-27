@@ -1,0 +1,22 @@
+>The death of Ji'tonj is a great relief for many between Miocho and Orn. The many partners she has garnered through less than desirable means may also find this new pleasurable 
+
+- Deal made with Seven and SheEhGi
+- Players awarded by Clareskir for freeing SheEhGi
+- Sent to a safe house
+- Interacted with a unicorn on the war
+- Saw a scarecrow 
+- Helped with chores
+- Learned about the "demon" between two doors from Lilip
+- Dupik is "sick" according to Lilip 
+- House is now blue 
+- Lilip died because of the vine creature with purple shards 
+- Vine creature gets the shit beat out of it and it flees 
+- It tries to inhabit a horse, gits all of shit beat out of it 
+- Adventure for Unicorn 
+- Met Ji'tonj where they made a deal to try to get the unicorn for her to not beat them 
+- Find unicorn by luring it with Martin's wonder song 
+- Hiding on the way back with the unicorn 
+- Hid under big tree 
+- Some crabs exploded against a stinking swamp beast 
+- On the way back Ji'tonj sent a thunder cloud against them and fled 
+- Later a battle ensued between the party and Ji'tonj where she was eventually defeated. 
