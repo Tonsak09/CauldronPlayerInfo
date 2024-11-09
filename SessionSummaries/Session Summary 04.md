@@ -1,0 +1,38 @@
+>The feyish woods past Cauldron has an awareness to those who wander its grounds. After the destruction of the angel residing in one of its stone doors the full attention of the woods is now on the party... 
+
+- Saw glimpses of red past the clearing of something(s) curiously watching the party 
+- Other stone doors could be glimpsed just faintly by Ipp
+- Fight with water tentacle guardians in a room with an acid ceiling 
+- Collected books from there and began scribing them into Fofo
+- Large room with skeletons of residents
+- Bar room
+	- Seven knocked a potion off a shelf breaking it but was able to lick enough of it off the ground the get its affects 
+	- Barrel made of feyish wood with green mold growing on the inside
+- Workshop room 
+	- Circles carved into the floor 
+	- Painting referring to a race that constantly fought against the odds 
+	- References to Bajju 
+- Maggot 
+	- Pulled him out where he then went to leave the dungeon 
+- Mini workshop
+	- Bone key combined with vile blood to form a flesh key 
+- Ropper
+	- Fight with a ropper in a room that had a flesh door 
+	- Dead ropper :(
+	- Use ropper blood and skeletal body for ritual 
+- Open flesh door with flesh key
+- Final room
+	- Room full of vines making it mostly difficult terrain 
+	- Has skeletons of old mothen soldiers that defended this room
+	- Vines appeared to be moving 
+	- Half plate gained 
+	- Stone pillar with cracks in it 
+	- Unlock pillar and fight ensues against tree angel and shambling mound
+- Fight
+	- Summon greater demon which is a warforged of hell 
+	- Most of the party gets downed 
+	- Warforged gets loose 
+	- Gained 44ish shards from the encounter 
+- Big sword from ritual 
+	- Ancient Pristine skeleton + Significant amount of (+3) blood 
+	- +2 greatsword 
