@@ -92,3 +92,16 @@ Clareskir Shop
 | Knocker   | Can be attached to any door or "portal" and leads to a room equivalent to [rope trick](https://www.dndbeyond.com/spells/2235-rope-trick?srsltid=AfmBOopWRTosFOl7GOVw962K5O3O8Bsu9npENEhm_tZvmiSm1Cmz_B0R). Items do not fall out when knocker is removed. Heavy items count as a taking up a creature spot in there | 30            |
 | Item Mind | Store an item in your mind. When storing takes on the affects of identify. When releasing item from your mind it simply appears in your hand or within an empty space you can see within 20 ft of you.<br><br>Items cannot be restored in the same matter without paying the price once again.                      | 5             |
 | Warp      | One time use item that teleports a creature you see within 60ft of you to an empty space you can see within 20ft of you. If non-willing they may resist with a wisdom saving throw against your spell save                                                                                                          | 20            |
+Folluk Shop 
+
+| Name        | Description                                                                    | Cost (Gold) |
+| ----------- | ------------------------------------------------------------------------------ | ----------- |
+| d4          | Muscle memory is added to your body that will help you in the future. Max of 4 | 5^n         |
+| Inspiration | Advanced ability for a future event. Max of 1                                  | 50          |
+Dupik
+
+| Name                   | Description                                                                                                                                      | Cost  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| Blastreed              | 2d10 piercing<br><br>5/10 range<br><br>Ammunition, loading, two handed, heavy, soaked(1)<br><br>Requires special ammo sold specifically by Dupik | 200gp |
+| Blastreed Ammo         | Simple bead of ammo with specialized glyphs made for a blastreed                                                                                 | 20gp  |
+| Tabaxi Reactant Elixer | Deals an increase of d10 piercing when in contact with a tabaxi                                                                                  | 15gp  |
