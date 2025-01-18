@@ -1,4 +1,4 @@
->The death of Ji'tonj is a great relief for many between Miocho and Orn. The many partners she has garnered through less than desirable means may also find this new pleasurable 
+>The death of Ji'tonj is a great relief for many between Miocho and Orn. The many partners she has garnered through less than desirable means may also find this news pleasurable 
 
 - Deal made with Seven and SheEhGi
 - Players awarded by Clareskir for freeing SheEhGi
